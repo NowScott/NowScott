@@ -35,14 +35,14 @@
 
 <div>&nbsp;</div>
 
-[contribute-img]:https://streak-stats.demolab.com?user=nowscott&border_radius=25&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=800
+[contribute-img]:https://streak-stats.demolab.com?user=nowscott&border_radius=25&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=725
 [overview-img]:https://raw.githubusercontent.com/nowscott/github-stats-transparent/output/generated/overview.svg
 [language-img]:https://raw.githubusercontent.com/nowscott/github-stats-transparent/output/generated/languages.svg
 
-![][contribute-img]
-
 ![][overview-img]
 ![][language-img]
+
+![][contribute-img]
 
 <div>&nbsp;</div>
 
