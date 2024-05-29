@@ -35,7 +35,9 @@
 
 出于对科技热点的关注，我还做了个更新科技动态的公众号，如果你也对科技新闻感兴趣，欢迎扫描下方二维码关注我。
 
-<img src="https://nowpic.oss-cn-shenzhen.aliyuncs.com/img/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" style="zoom:10%;" />
+<div style="text-align: center;">
+  <img src="https://nowpic.oss-cn-shenzhen.aliyuncs.com/img/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" alt="" width="600">
+</div>
 
 <div>&nbsp;</div>
 
