@@ -4,7 +4,7 @@
 
 <p>&emsp;&emsp;👋Hi,I'm NowScott<p/>
 <p>&emsp;&emsp;👨🏻‍🎓一名数据科学毕业生<p/>
-<p>&emsp;&emsp;♈️白羊座的INTP<p/>
+<p>&emsp;&emsp;♈️白羊座的INTJ<p/>
 <p>&emsp;&emsp;👨‍💻独立开发者｜果粉｜在学swift<p/>
 <p>&emsp;&emsp;<strong>"Stay Hungry. Stay Foolish."</strong></p>
 
