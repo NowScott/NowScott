@@ -5,7 +5,7 @@
 <p>&emsp;&emsp;👋Hi,I'm NowScott<p/>
 <p>&emsp;&emsp;👨🏻‍🎓一名数据科学毕业生<p/>
 <p>&emsp;&emsp;♈️白羊座的INTJ<p/>
-<p>&emsp;&emsp;👨‍💻独立开发者｜果粉｜在学swift<p/>
+<p>&emsp;&emsp;👨‍💻独立开发者｜果粉｜在学前端<p/>
 <p>&emsp;&emsp;<strong>"Stay Hungry. Stay Foolish."</strong></p>
 
 <div>&nbsp;</div>
@@ -32,6 +32,7 @@
 <div>&nbsp;</div>
 
 出于自学和爱好，我会在Github上开源一些小项目，我的期望是按自己喜欢研究一些有趣的东西，欢迎邮件或留言与我交流。
+项目更新暂时停滞，准备好好学习一下，沉淀沉淀。
 
 <div>&nbsp;</div>
 
