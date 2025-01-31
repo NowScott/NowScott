@@ -60,7 +60,7 @@
 [vscode-img]:https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white
 [md-img]:https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white
 [swift-img]:https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white
-[mac-img]:https://img.shields.io/badge/apple-mac_mini_m2-999999.svg?logo=apple&logoColor=white
+[mac-img]:https://img.shields.io/badge/apple-mac_mini_m4-999999.svg?logo=apple&logoColor=white
 
 ![Python][python-img]
 ![HTML5][html-img]
